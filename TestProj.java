@@ -3,9 +3,9 @@ import java.util.Scanner;
 
 public class TestProj {
     public static void main(String[] args) throws SQLException {
-        String jdbcURL = "jdbc:postgresql://localhost:5432/data";
-        String username = "postgres";
-        String password = "CODERJAVA";
+        String jdbcURL = "";
+        String username = "";
+        String password = "";
 
         try {
 
